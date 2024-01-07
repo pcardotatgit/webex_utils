@@ -1,6 +1,7 @@
 '''
     Display the messages which contain the search string and save the message IDs into a file named messages_id.txt.
     The script prompt you for the searched string.
+    Modify the maxMessagesPerRun and maxRuns variable in order to increase the number of message to scan
 '''
 # coding=utf-8
 import json
